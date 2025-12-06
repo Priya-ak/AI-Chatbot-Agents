@@ -1,0 +1,20 @@
+# Web UI
+streamlit
+requests
+
+# Backend API
+fastapi
+uvicorn
+
+# Env variables
+python-dotenv
+
+# LangChain + models
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langgraph
+
+# Tavily web search
+tavily-python
