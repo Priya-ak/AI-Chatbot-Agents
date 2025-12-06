@@ -31,11 +31,11 @@ You can define how the agent should behave, choose between **Groq** and **OpenAI
 📁 Project Structure
 ```
 
-├── app.py # Main entry file to run Streamlit app
+├── app 
 ├── ai_agent.py # Core logic for AI interaction & response generation
 ├── backend.py # Backend API routing & model processing
-├── frontend.py # UI layout & user interaction using Streamlit
-├── .env # API keys & environment variables (ignored in git)
+├── frontend.py # UI layout & user interaction using Streamlit 
+├── .env # API keys & environment variables 
 └── README.md # Project documentation
 
 ```
