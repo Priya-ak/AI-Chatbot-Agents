@@ -28,6 +28,7 @@ You can define how the agent should behave, choose between **Groq** and **OpenAI
 - Providers: Groq API, OpenAI API
 
 - Optional: Web search tool (e.g. Tavily, custom HTTP search, etc.)
+  
 📁 Project Structure
 ```
 
@@ -118,7 +119,7 @@ Open this URL in your browser.
 
      - Code execution
 
-     -Database queries
+     - Database queries
 
  - Style the Streamlit app using custom CSS or themes.
 
